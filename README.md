@@ -9,7 +9,7 @@
 <hr>
 <div>
   <a href="https://github.com/DiegoCheib"></a>
-  <img width="58%"  src="https://github-readme-stats.vercel.app/api?username=DiegoCheib&show_icons=true&theme=dark">
+  <img width="58%" src="https://github-readme-stats.vercel.app/api?username=DiegoCheib&show_icons=true&theme=dark">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCheib&theme=dark">
 </div>
 <div style="display inline-block"><br>
