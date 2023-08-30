@@ -7,10 +7,9 @@
 - ✨ Encontre-me no linkedin: <a href="www.linkedin.com/in/diego-cheib-85502b19b"><img align="center" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 
 <hr>
-<div>
-  <a href="https://github.com/DiegoCheib"></a>
-  <img width="58%" src="https://github-readme-stats.vercel.app/api?username=DiegoCheib&show_icons=true&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCheib&theme=dark">
+<div style="display: flex; justify-content: space-between;">
+  <img style="width: 49%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=DiegoCheib&show_icons=true&theme=dark">
+  <img style="width: 49%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCheib&theme=dark">
 </div>
 <div style="display inline-block"><br>
   <img align="center" alt="Cheib-Py" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
